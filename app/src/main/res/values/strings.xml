@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MidtermExam</string>
+    <string name="stop">Stop</string>
+    <string name="set">SET</string>
+    <string name="did">DID YOU SET THE ALARM?</string>
+    <string name="stopp">STOP</string>
+    <string name="play">PLAY</string>
+    <string name="ms">00</string>
+    <string name="hr">00</string>
+    <string name="colon">:</string>
+    <string name="minute">00</string>
+    <string name="min">00</string>
+    <string name="second">00</string>
+    <string name="sec">00</string>
+    <string name="h">H</string>
+    <string name="m">M</string>
+    <string name="s">S</string>
+    <string name="zero">00</string>
+    <string name="stopwatch">STOPWATCH</string>
+    <string name="alarm">ALARM</string>
+
+</resources>
